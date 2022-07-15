@@ -15,6 +15,6 @@ members = [
     "juniper_graphql_ws",
     "juniper_warp",
     "juniper_actix",
-    "tests/codegen",
-    "tests/integration",
+    "test_suite/codegen",
+    "test_suite/integration"
 ]
